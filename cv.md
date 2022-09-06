@@ -41,3 +41,11 @@ function sortArray(array) {
 ```
 
 ---
+
+## Experience
+
+- Design (figma) and coding (html, scss, js) a simple landing page for tarologist:
+  - [source code](https://github.com/vic-samoylik/katerina-kogan-tarot)
+  - [deploy](https://katerina-kogan.ru)
+
+---
