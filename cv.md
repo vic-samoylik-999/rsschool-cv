@@ -28,3 +28,16 @@ I'm 29-years old. Last five years I worked as a freelancer - wrote articles, mad
 - VS Code
 
 ---
+
+## Code Example:
+
+**Sort the odd Kata from Codewars**: _'You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.'_
+
+```javascript
+function sortArray(array) {
+  const sortedOdds = array.filter((num) => num % 2).sort((a, b) => a - b);
+  return array.map((num) => (num % 2 ? sortedOdds.shift() : num));
+}
+```
+
+---
