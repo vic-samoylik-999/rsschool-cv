@@ -59,3 +59,9 @@ function sortArray(array) {
 - [Scrimba](https://scrimba.com/) - 'CSS Grid', 'JS Basics', 'Intro to ES6+', 'Learn React Basics for free'.
 
 ---
+
+## Languages
+
+- **English** - A2(EPAM Adaptive English test), 89% Advanced on [EF SET test](https://www.efset.org/quick-check/)
+- **Russian** - Native
+- **Ukrainian** - Upper Intermediate
