@@ -49,3 +49,13 @@ function sortArray(array) {
   - [deploy](https://katerina-kogan.ru)
 
 ---
+
+## Education
+
+- Donetsk Medical College - 'General Medicine', 'Paramedic'
+- Courses:
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)
+- HTML, CSS, JS on Youtube channel ['Freelancer Lifestyle'](https://www.youtube.com/c/FreelancerLifeStyle)
+- [Scrimba](https://scrimba.com/) - 'CSS Grid', 'JS Basics', 'Intro to ES6+', 'Learn React Basics for free'.
+
+---
